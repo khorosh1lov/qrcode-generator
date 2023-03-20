@@ -26,3 +26,10 @@ The QR Code generator uses the QRCode.js library to generate the QR codes.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+
+Alexander Khoroshilov
+
+- GitHub: [khorosh1lov](https://github.com/khorosh1lov)
+- Email: khoroshilov.alex@gmail.com
