@@ -17,7 +17,7 @@ To install the QR Code generator, simply download the files from the GitHub repo
 
 Alternatively, you can clone the repository using Git:
 
-```git clone <https://github.com/yourusername/qr-code-generator.git>```
+```git clone <https://github.com/khorosh1lov/qr-code-generator.git>```
 
 ## Dependencies
 
